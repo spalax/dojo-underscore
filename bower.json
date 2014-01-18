@@ -1,6 +1,6 @@
 {
   "name": "dojo-underscore",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "Milotskiy Alexey <spalaxinco@gmail.com>"
   ]
@@ -16,6 +16,6 @@
   ],
 
   "dependencies": {
-      "underscore-amd": "*"
+      "underscore": "*"
   }
 }
