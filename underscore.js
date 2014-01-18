@@ -1,5 +1,5 @@
 define(["underscore/underscore"], function() {
     var u = _;
-    window._ && delete window['_'];
+    window && window._ && delete window['_'];
     return u;
 });
